@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HammelCompose</string>
+    <string name="search">البحث</string>
+    <string name="shared_links">الروابط المشاركة</string>
+    <string name="links_download">رابط التحميل</string>
+    <string name="browse">المتصفح</string>
+    <string name="feature_download_hammel">مميزات التحميل مع حمل</string>
+    <string name="search_desc_1">1.يمكن تحميل اي فيديو من اي منصة على الانترنت</string>
+    <string name="search_desc_2">2.يمكنك نسخ محتوى من خلال الانستجرام</string>
+    <string name="search_desc_3">3.يمكن تحميل اي فيديو من اي منصة على الانترنت</string>
+    <string name="search_desc_4_1">"4. مع "</string>
+    <string name="search_desc_4_2">حمل بلس</string>
+    <string name="search_desc_4_3">" يمكنك التحميل بجميع الجودات و سرعات عالية"</string>
+    <string name="search_desc_5">5.تابعنا على توتير</string>
+    <string name="open_now">افتح الآن</string>
+    <string name="all_shared_links">الروابط المشاركة</string>
+    <string name="delete_all">مسح الكل</string>
+    <string name="past">لصق</string>
+    <string name="show_more">عرض المزيد</string>
+    <string name="plus">بلس</string>
+    <string name="fast">سريع</string>
+    <string name="new_">جديد</string>
+</resources>
